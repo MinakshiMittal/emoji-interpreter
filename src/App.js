@@ -33,7 +33,7 @@ export default function App() {
     <div style={{ margin: "auto" }} className="App">
       <h1>Emoji Interpreter</h1>
       <p style={{ color: "#783827" }}>
-        Send an emoji without any backspace
+        Now, send an emoji without any backspace
         <span role="img" aria-label="wink">
           {" "}
           😉
